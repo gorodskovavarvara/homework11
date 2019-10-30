@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Lesson10</title>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" type="text/css" href="main1.css"/>
+
+    </head>
+    <body>
+       <div id="frame">
+           <header>Ocean</header>
+           <nav>
+               <menu id="mainMenu">
+                 <a href="https://www.youtube.com/watch?v=AgpWX18dby4">YouTube</a>
+                 <a href="https://en.wikipedia.org/wiki/Ocean">Wikipedia</a>
+                 <a href="https://www.freetheocean.com/">Help ocean</a>
+               </menu>
+            </nav>
+           
+           <main>
+               <img src="./1.jpg">
+               <img src="./2.jpg">
+           </main>
+           <aside>
+               <img class="pic" src="5.jpg" alt="image"/>
+               <img class="pic" src="6.jpg" alt="image"/>
+               <img class="pic" src="7.jpg" alt="image"/>
+           </aside>
+           <br style="clear:both"/>
+           <footer>All rights</footer>foter>
+       </div>
+
+    </body>
+</html>
